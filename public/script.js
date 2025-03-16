@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/tasks";
+const API_URL = "https://todo-app-practice.onrender.com";
 
 // Function para kunin ang tasks mula sa database
 async function fetchTasks() {
